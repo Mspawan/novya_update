@@ -8,3 +8,6 @@ urlpatterns = [
 ]
 
 
+path('api/classes/', views.get_classes, name='get_classes'),
+path('api/classes/', views.get_classes, name='get_classes'),
+path('api/classes/', views.get_classes, name='get_classes'),
